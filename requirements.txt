@@ -1,0 +1,11 @@
+# Python 3.11
+# Data is fetched at runtime from the UCI ML repository, no local files needed.
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+ucimlrepo
+aif360
