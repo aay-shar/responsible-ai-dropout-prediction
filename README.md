@@ -1,8 +1,8 @@
 # Responsible AI: Student Dropout Prediction
 
-Coursework from Responsible AI, MSc Applied Data Science, Utrecht University, winter 2025 to 2026. A dropout risk model built alongside the governance documentation that a high-risk AI system would need under the EU AI Act.
+Project from Responsible AI, MSc Applied Data Science, Utrecht University, winter 2025 to 2026. A dropout risk model built alongside the governance documentation that a high-risk AI system would need under the EU AI Act.
 
-The point of the project is not the classifier. It is that a model can be accurate overall and still fail the students it matters most for, and that this only becomes visible if you measure it.
+The point of the project is a model can be accurate overall and still fail the students it matters most for, and that this only becomes visible if you measure it.
 
 ## The model
 
